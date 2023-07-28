@@ -1,10 +1,10 @@
 wiki_db	bot	all_reverts	bot_reverts	false_positives	bot_reverts_percent	fpr	fpr_percent
 bgwiki	PSS 9	56.0	4.0	0.3	6.45	0.084	8.35
-enwiki	ClueBot NG	6571.0	356.0	33.5	5.41	0.094	9.41
-eswiki	SeroBOT	2123.0	894.0	78.3	42.09	0.088	8.76
+enwiki	ClueBot NG	6577.0	356.0	33.5	5.41	0.094	9.41
+eswiki	SeroBOT	2125.0	894.0	78.4	42.09	0.088	8.76
 fawiki	Dexbot	393.0	90.0	9.8	22.83	0.11	10.96
-frwiki	Salebot	730.0	26.0	2.9	3.53	0.111	11.09
+frwiki	Salebot	731.0	26.0	2.9	3.53	0.111	11.09
 ptwiki	Salebot	201.0	0.0	0.0	0.0	0.0	0.0
 rowiki	PatrocleBot	55.0	3.0	0.3	5.59	0.102	10.19
-ruwiki	Рейму Хакурей	709.0	65.0	8.1	9.15	0.125	12.53
+ruwiki	Рейму Хакурей	710.0	65.0	8.1	9.16	0.125	12.53
 simplewiki	ChenzwBot	89.0	13.0	1.5	14.71	0.115	11.55
