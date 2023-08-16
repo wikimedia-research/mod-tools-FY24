@@ -1,0 +1,28 @@
+wiki_db	bot	user_type	edit_bucket	reverted_bot_reverts	bot_reverts_by_base_editor	n_days	bot_reverts_by_base_editor_percent
+bgwiki	PSS 9	anonymous	n/a	1.43	0.49	125	34.08
+bgwiki	PSS 9	registered	0-99	1.61	0.93	90	57.93
+bgwiki	PSS 9	registered	100-499	1.0	0.5	4	50.0
+bgwiki	PSS 9	registered	500+	2.5	2.0	2	80.0
+enwiki	ClueBot NG	anonymous	n/a	22.8	8.89	1088	38.98
+enwiki	ClueBot NG	registered	0-99	10.76	4.97	1072	46.22
+enwiki	ClueBot NG	registered	100-499	1.0	1.0	5	100.0
+eswiki	SeroBOT	anonymous	n/a	69.26	39.91	1093	57.62
+eswiki	SeroBOT	registered	0-99	6.86	4.49	1058	65.52
+eswiki	SeroBOT	registered	100-499	1.69	1.35	178	80.0
+eswiki	SeroBOT	registered	500+	1.65	1.18	148	71.72
+eswiki	SeroBOT	registered	n/a	10.0	0.0	7	0.0
+fawiki	Dexbot	anonymous	n/a	29.36	10.36	347	35.3
+fawiki	Dexbot	registered	0-99	4.5	3.0	2	66.67
+fawiki	Dexbot	registered	500+	26.14	25.43	7	97.27
+frwiki	Salebot	anonymous	n/a	3.09	1.8	704	58.44
+frwiki	Salebot	registered	0-99	1.79	1.24	517	69.01
+frwiki	Salebot	registered	100-499	1.0	1.0	2	100.0
+frwiki	Salebot	registered	500+	1.0	1.0	5	100.0
+rowiki	PatrocleBot	anonymous	n/a	1.8	0.82	175	45.4
+rowiki	PatrocleBot	registered	0-99	2.0	2.0	2	100.0
+ruwiki	Рейму Хакурей	anonymous	n/a	8.07	2.98	1066	37.0
+ruwiki	Рейму Хакурей	registered	0-99	1.24	0.52	233	41.67
+ruwiki	Рейму Хакурей	registered	100-499	1.0	0.68	22	68.18
+ruwiki	Рейму Хакурей	registered	500+	1.2	1.0	5	83.33
+simplewiki	ChenzwBot	anonymous	n/a	2.21	1.33	666	60.14
+simplewiki	ChenzwBot	registered	0-99	1.23	0.79	151	64.86
